@@ -1,0 +1,9 @@
+com\itesoft\mtp\consumer\connection\impl\ServerMailConnectionGlobal$1.class
+com\itesoft\mtp\consumer\json\JsonManager.class
+com\itesoft\mtp\consumer\email\utils\FilterMails.class
+com\itesoft\mtp\consumer\connection\impl\ServerMailConnectionEWS$RedirectionUrlCallback.class
+com\itesoft\mtp\consumer\connection\impl\ServerMailConnectionGlobal.class
+com\itesoft\mtp\consumer\connection\ServerMailConnection.class
+com\itesoft\mtp\consumer\connection\impl\ServerMailConnectionEWS.class
+com\itesoft\mtp\consumer\email\MailsManager.class
+com\itesoft\mtp\consumer\email\utils\MailWriter.class
